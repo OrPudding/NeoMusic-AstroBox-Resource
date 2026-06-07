@@ -1,9 +1,9 @@
 {
   "item": {
-    "id": "moe.orpu.omusic",
+    "id": "moe.orpu.neomusic",
     "restype": "quick_app",
-    "name": "OMusic",
-    "description": "特别感谢 @VanguardHello_ 带来的全新 Material Design 3 设计\n一款专为小米VelaOS手表打造的、注重体验的第三方网易云音乐播放器。\n支持在线流媒体、批量下载、存储空间管理、每日推荐、私人FM、快捷手势、多语种歌词、自定义设置等功能。售价4.99元。",
+    "name": "NeoMusic",
+    "description": "OMusic 已升级为 NeoMusic。所有 OMusic 老用户均已免费升级到 6.99 元档永久捐赠授权，无需重复购买。\nNeoMusic 是一款专为小米 VelaOS 手表打造的第三方网易云音乐播放器，支持在线流媒体、批量下载、离线缓存、存储管理、每日推荐、私人 FM、快捷手势、多语种歌词和云控更新等功能。\n当前仅提供永久捐赠档，月付方案暂时下线。",
     "preview": [
       "vela5_rw-2026-01-01-02-33-32.png",
       "vela5_rw-2026-01-01-02-35-08.png",
@@ -27,37 +27,37 @@
     {
       "icon": "github-logo",
       "title": "开源地址",
-      "url": "https://github.com/OrPudding/OMusic"
+      "url": "https://github.com/OrPudding/NeoMusic"
     }
   ],
   "downloads": {
     "xmws3": {
-      "version": "26.3.1-fix",
-      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
+      "version": "26.6.8",
+      "file_name": "moe.orpu.neomusic.release.26.6.8.rpk"
     },
     "xmws4": {
-      "version": "26.3.1-fix",
-      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
+      "version": "26.6.8",
+      "file_name": "moe.orpu.neomusic.release.26.6.8.rpk"
     },
     "xmws4xring": {
-      "version": "26.3.1-fix",
-      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
+      "version": "26.6.8",
+      "file_name": "moe.orpu.neomusic.release.26.6.8.rpk"
     },
     "xmws5": {
-      "version": "26.3.1-fix",
-      "file_name": "s5_moe.orpu.omusic.release.26.3.1-fix.rpk"
+      "version": "26.6.8",
+      "file_name": "moe.orpu.neomusic.release.26.6.8.rpk"
     },
     "xmrw5": {
-      "version": "26.3.1-fix",
-      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
+      "version": "26.6.8",
+      "file_name": "moe.orpu.neomusic.release.26.6.8.rpk"
     },
     "xmrw5xring": {
-      "version": "26.3.1-fix",
-      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
+      "version": "26.6.8",
+      "file_name": "moe.orpu.neomusic.release.26.6.8.rpk"
     },
     "xmrw6": {
-      "version": "26.3.1-fix",
-      "file_name": "moe.orpu.omusic.release.26.3.1-fix.rpk"
+      "version": "26.6.8",
+      "file_name": "moe.orpu.neomusic.release.26.6.8.rpk"
     }
   },
   "ext": {}
