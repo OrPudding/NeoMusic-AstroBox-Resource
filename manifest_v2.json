@@ -1,44 +1,44 @@
 {
   "downloads": {
     "xmrw5": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.8.12.rpk",
-      "sha256": "755f3b2ca3c6051c765e32d12ec9ba164624a07261781a91307a632c1defa291",
-      "version": "26.8.12"
+      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
+      "version": "26.10.25"
     },
     "xmrw5xring": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.8.12.rpk",
-      "sha256": "755f3b2ca3c6051c765e32d12ec9ba164624a07261781a91307a632c1defa291",
-      "version": "26.8.12"
+      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
+      "version": "26.10.25"
     },
     "xmrw6": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.8.12.rpk",
-      "sha256": "755f3b2ca3c6051c765e32d12ec9ba164624a07261781a91307a632c1defa291",
-      "version": "26.8.12"
+      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
+      "version": "26.10.25"
     },
     "xmws3": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.8.12.rpk",
-      "sha256": "755f3b2ca3c6051c765e32d12ec9ba164624a07261781a91307a632c1defa291",
-      "version": "26.8.12"
+      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
+      "version": "26.10.25"
     },
     "xmws4": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.8.12.rpk",
-      "sha256": "755f3b2ca3c6051c765e32d12ec9ba164624a07261781a91307a632c1defa291",
-      "version": "26.8.12"
+      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
+      "version": "26.10.25"
     },
     "xmws441": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.8.12.rpk",
-      "sha256": "755f3b2ca3c6051c765e32d12ec9ba164624a07261781a91307a632c1defa291",
-      "version": "26.8.12"
+      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
+      "version": "26.10.25"
     },
     "xmws4xring": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.8.12.rpk",
-      "sha256": "755f3b2ca3c6051c765e32d12ec9ba164624a07261781a91307a632c1defa291",
-      "version": "26.8.12"
+      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
+      "version": "26.10.25"
     },
     "xmws5": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.8.12.rpk",
-      "sha256": "755f3b2ca3c6051c765e32d12ec9ba164624a07261781a91307a632c1defa291",
-      "version": "26.8.12"
+      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
+      "version": "26.10.25"
     }
   },
   "ext": {},
@@ -49,22 +49,32 @@
         "name": "OrPudding"
       }
     ],
-    "cover": "media/cover.png",
+    "cover": "media/cover.webp",
     "description": "NeoMusic 是一款专为小米 VelaOS 手表打造的第三方音乐客户端，底层重构，功能焕新，新增本地导入支持\n支持在线流媒体、批量下载、离线缓存、存储管理、每日推荐、私人 FM、快捷手势、多语种歌词和云控更新等功能\nLite 档 2.99 元可离线缓存 50 首，Plus 档 4.99 元可缓存 100 首，Pro 档 6.99 元可无限缓存",
-    "icon": "media/icon.png",
+    "icon": "media/icon.webp",
     "id": "moe.orpu.neomusic",
     "name": "NeoMusic",
     "preview": [
-      "media/preview-2.png",
-      "media/preview-3.png",
-      "media/preview-4.png",
-      "media/preview-5.png",
-      "media/preview-6.png",
-      "media/preview-7.png",
-      "media/preview-8.png",
-      "media/preview-9.png"
+      "media/preview-2.webp",
+      "media/preview-3.webp",
+      "media/preview-4.webp",
+      "media/preview-5.webp",
+      "media/preview-6.webp",
+      "media/preview-7.webp",
+      "media/preview-8.webp",
+      "media/preview-9.webp",
+      "media/preview-10.webp",
+      "media/preview-11.webp",
+      "media/preview-12.webp",
+      "media/preview-13.webp"
     ],
     "restype": "quick_app"
   },
-  "links": []
+  "links": [
+    {
+      "icon": "Link",
+      "title": "米坛社区",
+      "url": "https://www.bandbbs.cn/resources/4324/"
+    }
+  ]
 }
