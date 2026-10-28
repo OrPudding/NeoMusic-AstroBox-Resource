@@ -1,44 +1,52 @@
 {
   "downloads": {
     "xmrw5": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "file_name": "downloads/white_moe.orpu.neomusic.release.26.10.25.rpk",
       "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
-      "version": "26.10.25"
+      "version": "26.10.25",
+      "versionCode": 261025
     },
     "xmrw5xring": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "file_name": "downloads/white_moe.orpu.neomusic.release.26.10.25.rpk",
       "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
-      "version": "26.10.25"
+      "version": "26.10.25",
+      "versionCode": 261025
     },
     "xmrw6": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "file_name": "downloads/white_moe.orpu.neomusic.release.26.10.25.rpk",
       "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
-      "version": "26.10.25"
+      "version": "26.10.25",
+      "versionCode": 261025
     },
     "xmws3": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "file_name": "downloads/white_moe.orpu.neomusic.release.26.10.25.rpk",
       "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
-      "version": "26.10.25"
+      "version": "26.10.25",
+      "versionCode": 261025
     },
     "xmws4": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "file_name": "downloads/white_moe.orpu.neomusic.release.26.10.25.rpk",
       "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
-      "version": "26.10.25"
+      "version": "26.10.25",
+      "versionCode": 261025
     },
     "xmws441": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "file_name": "downloads/white_moe.orpu.neomusic.release.26.10.25.rpk",
       "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
-      "version": "26.10.25"
+      "version": "26.10.25",
+      "versionCode": 261025
     },
     "xmws4xring": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "file_name": "downloads/white_moe.orpu.neomusic.release.26.10.25.rpk",
       "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
-      "version": "26.10.25"
+      "version": "26.10.25",
+      "versionCode": 261025
     },
     "xmws5": {
-      "file_name": "downloads/0-white_moe.orpu.neomusic.release.26.10.25.rpk",
+      "file_name": "downloads/white_moe.orpu.neomusic.release.26.10.25.rpk",
       "sha256": "61b133d6ec4f1b7fc955cce256c8e7648f81f8b62c31b1b726010db45b8e9aa1",
-      "version": "26.10.25"
+      "version": "26.10.25",
+      "versionCode": 261025
     }
   },
   "ext": {},
@@ -55,6 +63,7 @@
     "id": "moe.orpu.neomusic",
     "name": "NeoMusic",
     "preview": [
+      "media/preview-1.webp",
       "media/preview-2.webp",
       "media/preview-3.webp",
       "media/preview-4.webp",
@@ -65,16 +74,9 @@
       "media/preview-9.webp",
       "media/preview-10.webp",
       "media/preview-11.webp",
-      "media/preview-12.webp",
-      "media/preview-13.webp"
+      "media/preview-12.webp"
     ],
     "restype": "quick_app"
   },
-  "links": [
-    {
-      "icon": "Link",
-      "title": "米坛社区",
-      "url": "https://www.bandbbs.cn/resources/4324/"
-    }
-  ]
+  "links": []
 }
